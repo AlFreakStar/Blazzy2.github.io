@@ -224,7 +224,7 @@ function getBanner(banner) {
 		
 	// 5* Ruler
 		
-		{"type": "Servant", "name": "Battler Ushiromiya (S2)", "class": "Ruler", "rarity": 5},
+		{"type": "Servant", "name": "Battler Ushiromiya S2", "class": "Ruler", "rarity": 5},
 		
 	// 5* Avenger
 	
