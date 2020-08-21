@@ -107,6 +107,7 @@ function getBanner(banner) {
 	// 3* Caster
 		
 		
+		{"type": "Servant", "name": "Kinzo Ushiromiya", "class": "Caster", "rarity": 3},
 		{"type": "Servant", "name": "Sou Hiyori", "class": "Caster", "rarity": 3},
 	// 3* Rider
 		
