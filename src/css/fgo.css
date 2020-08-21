@@ -79,7 +79,7 @@ a {
     font-weight: bolder;
     color: #fff;
     text-align: center;
-    text-shadow: 0.75px 0.75px black;
+     text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
     margin-top: -8.5vh;
     display: none;
 }
