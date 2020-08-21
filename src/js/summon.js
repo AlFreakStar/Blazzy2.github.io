@@ -207,6 +207,7 @@ function getBanner(banner) {
 	// 5* Caster
 		
 		
+		{"type": "Servant", "name": "Kyoko Kirigiri", "class": "Caster", "rarity": 5},
 		{"type": "Servant", "name": "V", "class": "Caster", "rarity": 5},
 		
 	// 5* Rider
@@ -246,7 +247,7 @@ function getBanner(banner) {
 		{"type": "CE", "name": "Autism Spin", "class": "CE", "rarity": 3},
 		{"type": "CE", "name": "Air Conditioning", "class": "CE", "rarity": 3},
 		{"type": "CE", "name": "KWAB", "class": "CE", "rarity": 3},
-		
+		{"type": "CE", "name": "Porn Magazines", "class": "CE", "rarity": 3},
 		// 4 Star CE's
 		
 		
