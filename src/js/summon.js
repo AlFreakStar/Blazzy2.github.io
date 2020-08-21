@@ -97,21 +97,26 @@ function getBanner(banner) {
 		{"type": "Servant", "name": "Geralt of Rivia", "class": "Saber", "rarity": 3},
 	// 3* Archer
 		
+		{"type": "Servant", "name": "Zoomer", "class": "Archer", "rarity": 3},
 		{"type": "Servant", "name": "Joshua Graham", "class": "Archer", "rarity": 3},
 	// 3* Lancer
 		
+		{"type": "Servant", "name": "Alucard", "class": "Lancer", "rarity": 3},
 		{"type": "Servant", "name": "Drake Bell", "class": "Lancer", "rarity": 3},
 		{"type": "Servant", "name": "Haze Stratos", "class": "Lancer", "rarity": 3},
 	// 3* Caster
 		
-		{"type": "Servant", "name": "Battler Ushiromiya (S1)", "class": "Caster", "rarity": 3},
 		
+		{"type": "Servant", "name": "Sou Hiyori", "class": "Caster", "rarity": 3},
 	// 3* Rider
 		
+		{"type": "Servant", "name": "Eri", "class": "Rider", "rarity": 3},
+		{"type": "Servant", "name": "Arthur Morgan", "class": "Rider", "rarity": 3},
 		{"type": "Servant", "name": "Boomer", "class": "Rider", "rarity": 3},
 		
 	// 3* Assassin
 		
+		{"type": "Servant", "name": "The Janitor", "class": "Assassin", "rarity": 3},
 		{"type": "Servant", "name": "Hisoka", "class": "Assassin", "rarity": 3},
 		
 	// 3* Berserker
@@ -126,6 +131,8 @@ function getBanner(banner) {
 	// 3* Avenger
 		
 		
+        {"type": "Servant", "name": "Kevin Nash", "class": "Ruler", "rarity": 3},
+		
 		////////////////// 3* Servant Zone ////////////////////////////////////////
 		
 		
@@ -134,6 +141,7 @@ function getBanner(banner) {
 		
 	// 4* Saber
 		
+		{"type": "Servant", "name": "Rean Schwarzer", "class": "Saber", "rarity": 4},
 		{"type": "Servant", "name": "Adam Jensen", "class": "Saber", "rarity": 4},
 		
 	// 4* Archer
@@ -148,9 +156,11 @@ function getBanner(banner) {
 	// 4* Caster
 		
         {"type": "Servant", "name": "Raidou Kuzunoha", "class": "Caster", "rarity": 4},
+		{"type": "Servant", "name": "Battler Ushiromiya (S1)", "class": "Caster", "rarity": 4},
 		
 	// 4* Rider
 		
+        {"type": "Servant", "name": "Fred Jones", "class": "Rider", "rarity": 4},
         {"type": "Servant", "name": "Tatsuya Suou", "class": "Rider", "rarity": 4},
         {"type": "Servant", "name": "Extra", "class": "Rider", "rarity": 4},
 		{"type": "Servant", "name": "Miyao Mitake", "class": "Rider", "rarity": 4},
@@ -224,6 +234,8 @@ function getBanner(banner) {
 	
 		
 		// 3 Star CE's
+		
+		{"type": "CE", "name": "Reasonable Explanation", "class": "CE", "rarity": 3},
 		{"type": "CE", "name": "Torque Observation", "class": "CE", "rarity": 3},
         {"type": "CE", "name": "Headcrank Kino", "class": "CE", "rarity": 3},
         {"type": "CE", "name": "Audience Pop", "class": "CE", "rarity": 3},
@@ -232,15 +244,19 @@ function getBanner(banner) {
 		{"type": "CE", "name": "Junk", "class": "CE", "rarity": 3},
 		{"type": "CE", "name": "Autism Spin", "class": "CE", "rarity": 3},
 		{"type": "CE", "name": "Air Conditioning", "class": "CE", "rarity": 3},
+		{"type": "CE", "name": "KWAB", "class": "CE", "rarity": 3},
+		
 		// 4 Star CE's
 		
 		
+		{"type": "CE", "name": "Pure Strikes", "class": "CE", "rarity": 4},
 		{"type": "CE", "name": "Extraction Point", "class": "CE", "rarity": 4},
 		{"type": "CE", "name": "Shitpost", "class": "CE", "rarity": 4},
 		{"type": "CE", "name": "Seething", "class": "CE", "rarity": 4},
         {"type": "CE", "name": "NET Truck", "class": "CE", "rarity": 4},
 		// 5 Star CE's
 		
+		{"type": "CE", "name": "Valued Briefcase", "class": "CE", "rarity": 5},
 		{"type": "CE", "name": "Deadly Word", "class": "CE", "rarity": 5},
 		{"type": "CE", "name": "The Final Rumble", "class": "CE", "rarity": 5},
         {"type": "CE", "name": "7-Year Obsession", "class": "CE", "rarity": 5}
