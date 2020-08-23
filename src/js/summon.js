@@ -132,7 +132,7 @@ function getBanner(banner) {
 	// 3* Avenger
 		
 		
-        {"type": "Servant", "name": "Kevin Nash", "class": "Ruler", "rarity": 3},
+        {"type": "Servant", "name": "Kevin Nash", "class": "Avenger", "rarity": 3},
 		
 		////////////////// 3* Servant Zone ////////////////////////////////////////
 		
@@ -224,7 +224,7 @@ function getBanner(banner) {
 		
 	// 5* Ruler
 		
-		{"type": "Servant", "name": "Battler Ushiromiya S2", "class": "Ruler", "rarity": 5},
+		{"type": "Servant", "name": "Battler Ushiromiya (S2)", "class": "Ruler", "rarity": 5},
 		
 	// 5* Avenger
 	
